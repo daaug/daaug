@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @daaug
+- 👀 I’m interested in games and music
+- 🌱 I’m currently learning godot
+- 💞️ I’m looking to collaborate on games too :D
+- 📫 Just send me a message on telegram: @daaug

@@ -2,4 +2,3 @@
 - 👀 I’m interested in games and music
 - 🌱 I’m currently learning java!
 - 💞️ I’m looking to collaborate on java projects :)
-- 📫 Just send me a message on daniel.aug.souza@gmail.com

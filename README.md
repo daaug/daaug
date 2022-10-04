@@ -1,5 +1,5 @@
 <h1 align="center">Henlo 👋, I'm Daniel Augusto</h1>
-<h3 align="center">A fullstack developer from Brazil, and a [He4rt💜](https://discord.gg/5uU3MYRH) member</h3>
+<h3 align="center">A fullstack developer from Brazil, and a <a href="https://discord.gg/5uU3MYRH">He4rt 💜</a> member</h3>
 
 - 🌱 I’m currently learning **/Go**
 - 👯 I’m looking to collaborate on **Frontend interfaces and Go apps**

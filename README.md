@@ -1,10 +1,8 @@
 <h1 align="center">Henlo 👋, I'm Daniel Augusto</h1>
 <h3 align="center">A fullstack developer from Brazil, and a [He4rt💜](https://discord.gg/5uU3MYRH) member</h3>
 
-
-- 🔭 I’m currently working on [IntegraAção](https://github.com/INTEGRAACAO/)
-- 🌱 I’m currently learning **Java/JS/Go**
-- 👯 I’m looking to collaborate on **Frontend interfaces and Java/JS/Go apps**
+- 🌱 I’m currently learning **/Go**
+- 👯 I’m looking to collaborate on **Frontend interfaces and Go apps**
 - 🤝 I’m looking for help with **understand more about go**
 - 👨‍💻 All of my projects are available here! at [/otsudann](https://github.com/otsudann)
 - ⚡ Fun fact **I think I need a rollerskate**

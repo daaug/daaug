@@ -2,7 +2,7 @@
 <h3 align="center">Just a developer from Brazil</h3>
 
 - 🌱 I’m currently learning **/React**
-- 👨‍💻 All of my projects are available here at [/otsudann](https://github.com/otsudann)
+- 👨‍💻 All of my projects are available here at [/otsudann](https://github.com/otsudann) specially those I'm currently training [/otsudann/SoloProjects](https://github.com/otsudann/SoloProjects)
 - ⚡ Fun fact **I think I need a rollerskate**
 <h1></h1>
 <h3 align="center">Connect with me:</h3>

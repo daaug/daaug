@@ -1,10 +1,8 @@
-<h1 align="center">Henlo 👋, I'm Daniel Augusto</h1>
-<h3 align="center">A fullstack developer from Brazil, and a <a href="https://discord.gg/5uU3MYRH">He4rt 💜</a> member</h3>
+<h1 align="center">Henlo 👋, I am Daniel Augusto</h1>
+<h3 align="center">Just a developer from Brazil</h3>
 
-- 🌱 I’m currently learning **/Go**
-- 👯 I’m looking to collaborate on **Frontend interfaces and Go apps**
-- 🤝 I’m looking for help with **understand more about go**
-- 👨‍💻 All of my projects are available here! at [/otsudann](https://github.com/otsudann)
+- 🌱 I’m currently learning **/React**
+- 👨‍💻 All of my projects are available here at [/otsudann](https://github.com/otsudann)
 - ⚡ Fun fact **I think I need a rollerskate**
 <h1></h1>
 <h3 align="center">Connect with me:</h3>
@@ -13,10 +11,9 @@
 <a href="https://www.hackerrank.com/otsudann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="otsudann" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools that I know:</h3>
 
 <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>  
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>

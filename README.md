@@ -2,7 +2,7 @@
 <h3 align="center">Just a developer from Brazil</h3>
 
 - 🌱 I’m currently learning **/Flutter**
-- 👨‍💻 All of my projects are available here at [/otsudann](https://github.com/otsudann)
+- 👨‍💻 All of my projects are available here at [/daaug](https://github.com/daaug)
 - ⚡ Fun fact **I need a rollerskate**
 <h1></h1>
 <h3 align="center">Connect with me:</h3>

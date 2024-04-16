@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I dont like fruits** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
@@ -37,13 +37,15 @@ Sunday                   104 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 39 mins       █████████████████████████   99.95 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 33 mins       ████████████████████████░   95.88 % 
+Unknown Editor           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -59,7 +61,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2024 03:37:11 UTC
+ Last Updated on 16/04/2024 03:44:12 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

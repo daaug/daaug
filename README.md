@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **/Flutter**
 - 👨‍💻 All of my projects are available here at [/daaug](https://github.com/daaug)
 - ⚡ Fun fact **I dont like fruits** 
-
+<h1></h1>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2040%20mins-blue)
 

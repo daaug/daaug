@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -38,13 +38,15 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              ████████████████████████░   96.71 % 
+SCSS                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Unknown Editor           0 secs              █████████████████████████   100.00 % 
+Neovim                   6 mins              █████████████████████████   99.73 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -60,7 +62,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2024 18:32:25 UTC
+ Last Updated on 29/04/2024 18:33:36 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

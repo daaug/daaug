@@ -38,15 +38,13 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     44 mins             ███████████████████░░░░░░   77.18 % 
-Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -62,7 +60,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 18:36:28 UTC
+ Last Updated on 01/07/2024 18:37:20 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

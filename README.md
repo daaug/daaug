@@ -38,16 +38,13 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 46 mins       ██████████████████░░░░░░░   71.49 % 
-CSS                      1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   8 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,7 +60,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 18:39:00 UTC
+ Last Updated on 11/07/2024 18:37:37 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

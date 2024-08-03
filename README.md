@@ -38,14 +38,13 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-tmux                     16 mins             █████████████████████████   99.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,7 +60,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2024 18:37:47 UTC
+ Last Updated on 03/08/2024 18:36:54 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

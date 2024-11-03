@@ -7,8 +7,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -60,7 +58,7 @@ Vim Script               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 18:39:19 UTC
+ Last Updated on 03/11/2024 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

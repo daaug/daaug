@@ -47,20 +47,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in TypeScript** 
 
 ```text
-PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Dart                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Vim Script               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Dart                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vim Script               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 28/12/2024 18:39:28 UTC
+ Last Updated on 29/12/2024 18:38:58 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

@@ -1,9 +1,8 @@
-<h1 align="center">Henlo 👋, I am Daniel Augusto</h1>
-<h3 align="center">Just a developer from Brazil</h3>
+<h1 align="center">Henlo 👋! Daniel Augusto here!</h1>
 
-- 🌱 I’m currently learning **/Flutter**
-- 👨‍💻 All of my projects are available here at [/daaug](https://github.com/daaug)
-- ⚡ Fun fact **I dont like fruits** 
+- 🌱 I’m currently learning **/Python**
+- 👨‍💻 All of my projects are available already here at [/daaug](https://github.com/daaug)
+- ⚡ Fun fact **I love linux (debian)**
 <h1></h1>
 
 <!--START_SECTION:waka-->

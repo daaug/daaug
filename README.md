@@ -6,8 +6,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -59,7 +57,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:41:31 UTC
+ Last Updated on 15/02/2025 18:38:49 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

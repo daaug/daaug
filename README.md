@@ -6,8 +6,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -47,7 +45,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/03/2025 18:44:57 UTC
+ Last Updated on 27/03/2025 18:44:47 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

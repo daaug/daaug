@@ -6,7 +6,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,17 +37,18 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   23 mins             ███████████████████████░░   92.18 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2025 18:45:15 UTC
+ Last Updated on 03/04/2025 18:44:13 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

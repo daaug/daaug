@@ -6,10 +6,48 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 20/09/2025 18:40:08 UTC
+```text
+🌞 Morning                389 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌆 Daytime                438 commits         █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌃 Evening                257 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌙 Night                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Wednesday                490 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
+Thursday                 311 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Friday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 21/09/2025 18:41:40 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

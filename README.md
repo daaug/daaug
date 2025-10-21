@@ -1,6 +1,5 @@
 <h1 align="center">Henlo 👋! Daniel Augusto here!</h1>
 
-- 🌱 I’m currently learning **/Python**
 - 👨‍💻 All of my projects are available already here at [/daaug](https://github.com/daaug)
 - ⚡ Fun fact **I love linux (debian)**
 <h1></h1>

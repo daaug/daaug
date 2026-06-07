@@ -5,8 +5,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -48,7 +46,7 @@ Linux                    1 hr 36 mins        ███████████�
 ```
 
 
- Last Updated on 06/06/2026 19:51:29 UTC
+ Last Updated on 07/06/2026 19:52:49 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

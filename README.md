@@ -5,6 +5,8 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -34,18 +36,17 @@ Sunday                   112 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-LilyPond                 56 mins             █████████████████████████   98.43 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+XML                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   57 mins             █████████████████████████   100.00 % 
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 19:52:52 UTC
+ Last Updated on 25/07/2026 19:40:23 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

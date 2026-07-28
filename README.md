@@ -5,10 +5,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -38,17 +34,17 @@ Sunday                   115 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-LilyPond                 57 mins             ██████████████░░░░░░░░░░░   57.05 % 
-Lua                      41 mins             ██████████░░░░░░░░░░░░░░░   40.99 % 
-gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+LilyPond                 4 hrs 11 mins       ███████████████████░░░░░░   74.19 % 
+Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Lua                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Neovim                   1 hr 40 mins        █████████████████████████   100.00 % 
+Neovim                   5 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +54,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 20:01:53 UTC
+ Last Updated on 28/07/2026 19:58:13 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

@@ -5,10 +5,6 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -38,16 +34,13 @@ Sunday                   115 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-LilyPond                 1 hr 3 mins         ███████████████░░░░░░░░░░   61.07 % 
-Text                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-sshconfig                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -57,7 +50,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 20:01:45 UTC
+ Last Updated on 07/08/2026 00:21:02 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

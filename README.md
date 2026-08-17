@@ -38,17 +38,17 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-LilyPond                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Lua                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+LilyPond                 55 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
+Lua                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Vim Script               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 23 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2026 18:52:24 UTC
+ Last Updated on 17/08/2026 19:05:34 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

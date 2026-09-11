@@ -5,7 +5,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
@@ -38,14 +38,17 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       █████████████████████░░░░   84.97 % 
-Text                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Python                   7 hrs 18 mins       ███████████████████████░░   91.27 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 55 mins       ██████████████████████░░░   86.43 % 
+Neovim                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 
 💻 Operating System: 
-Linux                    2 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 21:01:28 UTC
+ Last Updated on 11/09/2026 21:06:11 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

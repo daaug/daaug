@@ -5,11 +5,11 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -38,17 +38,18 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   7 hrs 18 mins       ███████████████████████░░   91.27 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   10 hrs 57 mins      ███████████████████████░░   93.87 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Lua                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+pdf                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       ██████████████████████░░░   86.43 % 
-Neovim                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+VS Code                  6 hrs 55 mins       ███████████████░░░░░░░░░░   59.33 % 
+Neovim                   4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
 
 💻 Operating System: 
-Linux                    8 hrs               █████████████████████████   100.00 % 
+Linux                    11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +59,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 21:06:11 UTC
+ Last Updated on 12/09/2026 20:43:22 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

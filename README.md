@@ -5,7 +5,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
@@ -14,21 +14,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
-🌆 Daytime                472 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌃 Evening                290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌞 Morning                406 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌆 Daytime                472 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌃 Evening                290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
 🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Tuesday                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Wednesday                513 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
-Thursday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Tuesday                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Wednesday                513 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
+Thursday                 321 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 Friday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
@@ -38,17 +38,17 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   14 hrs 58 mins      ███████████████████░░░░░░   74.61 % 
-Lua                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Text                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   14 hrs 10 mins      ███████████████████░░░░░░   76.90 % 
+Lua                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Text                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 4 mins       █████████████████████████   100.00 % 
+Neovim                   18 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/09/2026 21:37:37 UTC
+ Last Updated on 24/09/2026 21:38:48 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

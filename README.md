@@ -5,7 +5,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
@@ -38,16 +38,17 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   8 hrs 27 mins       ███████████████████████░░   93.64 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   6 hrs 17 mins       ███████████████████████░░   91.44 % 
+Text                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 1 min         █████████████████████████   100.00 % 
+Neovim                   6 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -57,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 22:26:51 UTC
+ Last Updated on 01/10/2026 22:48:51 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

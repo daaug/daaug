@@ -38,17 +38,17 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 23 mins       ██████████████████████░░░   87.41 % 
-Text                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 26 mins        █████████████████████░░░░   84.10 % 
+Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 1 min         █████████████████████████   100.00 % 
+Neovim                   1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 00:12:41 UTC
+ Last Updated on 06/10/2026 22:43:40 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

@@ -38,13 +38,15 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 hr 11 mins        ██████████████████████░░░   87.15 % 
+Lua                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,7 +56,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 00:53:20 UTC
+ Last Updated on 13/10/2026 22:58:30 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>

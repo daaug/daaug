@@ -14,21 +14,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                407 commits         ████████░░░░░░░░░░░░░░░░░   31.33 % 
-🌆 Daytime                477 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
-🌃 Evening                293 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+🌞 Morning                407 commits         ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌆 Daytime                478 commits         █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                293 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Tuesday                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Wednesday                515 commits         ██████████░░░░░░░░░░░░░░░   39.65 % 
-Thursday                 321 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Friday                   54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Sunday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Wednesday                515 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
+Thursday                 321 commits         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Friday                   54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Sunday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
@@ -38,13 +38,17 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 41 mins        ████████████████████░░░░░   79.99 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/10/2026 21:01:27 UTC
+ Last Updated on 26/10/2026 22:48:19 UTC
 <!--END_SECTION:waka-->
 
 <h1></h1>
